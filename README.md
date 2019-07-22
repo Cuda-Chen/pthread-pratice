@@ -1,0 +1,2 @@
+# pthread-pratice
+pthread pratice
